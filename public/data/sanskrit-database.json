@@ -1,0 +1,1246 @@
+{
+    "brahma": {
+        "category": "deity",
+        "usesMurda": [
+            "bra",
+            "hma"
+        ],
+        "priority": "high"
+    },
+    "wisnu": {
+        "category": "deity",
+        "usesMurda": [
+            "wi",
+            "snu"
+        ],
+        "priority": "high",
+        "variants": [
+            "vishnu"
+        ]
+    },
+    "vishnu": {
+        "category": "deity",
+        "usesMurda": [
+            "wi",
+            "snu"
+        ],
+        "preferredForm": "wisnu",
+        "priority": "high"
+    },
+    "shiwa": {
+        "category": "deity",
+        "usesMurda": [
+            "shi",
+            "wa"
+        ],
+        "priority": "high",
+        "variants": [
+            "shiva"
+        ]
+    },
+    "shiva": {
+        "category": "deity",
+        "usesMurda": [
+            "shi",
+            "wa"
+        ],
+        "preferredForm": "shiwa",
+        "priority": "high"
+    },
+    "krishna": {
+        "category": "deity",
+        "usesMurda": [
+            "kri",
+            "shna"
+        ],
+        "priority": "high"
+    },
+    "rama": {
+        "category": "deity",
+        "usesMurda": [
+            "ra",
+            "ma"
+        ],
+        "priority": "high"
+    },
+    "indra": {
+        "category": "deity",
+        "usesMurda": [
+            "in",
+            "dra"
+        ],
+        "priority": "high"
+    },
+    "ganesha": {
+        "category": "deity",
+        "usesMurda": [
+            "ga",
+            "ne",
+            "sha"
+        ],
+        "priority": "high"
+    },
+    "saraswati": {
+        "category": "deity",
+        "usesMurda": [
+            "sa",
+            "ras",
+            "wa",
+            "ti"
+        ],
+        "priority": "high"
+    },
+    "lakshmi": {
+        "category": "deity",
+        "usesMurda": [
+            "lak",
+            "shmi"
+        ],
+        "priority": "high"
+    },
+    "durga": {
+        "category": "deity",
+        "usesMurda": [
+            "dur",
+            "ga"
+        ],
+        "priority": "high"
+    },
+    "kali": {
+        "category": "deity",
+        "usesMurda": [
+            "ka",
+            "li"
+        ],
+        "priority": "high"
+    },
+    "parvati": {
+        "category": "deity",
+        "usesMurda": [
+            "par",
+            "wa",
+            "ti"
+        ],
+        "priority": "high"
+    },
+    "hanuman": {
+        "category": "deity",
+        "usesMurda": [
+            "ha",
+            "nu",
+            "man"
+        ],
+        "priority": "high"
+    },
+    "surya": {
+        "category": "deity",
+        "usesMurda": [
+            "sur",
+            "ya"
+        ],
+        "priority": "high"
+    },
+    "chandra": {
+        "category": "deity",
+        "usesMurda": [
+            "chan",
+            "dra"
+        ],
+        "priority": "high"
+    },
+    "agni": {
+        "category": "deity",
+        "usesMurda": [
+            "ag",
+            "ni"
+        ],
+        "priority": "high"
+    },
+    "wayu": {
+        "category": "deity",
+        "usesMurda": [
+            "wa",
+            "yu"
+        ],
+        "priority": "high",
+        "variants": [
+            "vayu"
+        ]
+    },
+    "vayu": {
+        "category": "deity",
+        "usesMurda": [
+            "wa",
+            "yu"
+        ],
+        "preferredForm": "wayu",
+        "priority": "high"
+    },
+    "waruna": {
+        "category": "deity",
+        "usesMurda": [
+            "wa",
+            "ru",
+            "na"
+        ],
+        "priority": "high",
+        "variants": [
+            "varuna"
+        ]
+    },
+    "varuna": {
+        "category": "deity",
+        "usesMurda": [
+            "wa",
+            "ru",
+            "na"
+        ],
+        "preferredForm": "waruna",
+        "priority": "high"
+    },
+    "yama": {
+        "category": "deity",
+        "usesMurda": [
+            "ya",
+            "ma"
+        ],
+        "priority": "high"
+    },
+    "kubera": {
+        "category": "deity",
+        "usesMurda": [
+            "ku",
+            "be",
+            "ra"
+        ],
+        "priority": "high"
+    },
+    "dharma": {
+        "category": "philosophy",
+        "usesMurda": [
+            "dha",
+            "rma"
+        ],
+        "priority": "high"
+    },
+    "karma": {
+        "category": "philosophy",
+        "usesMurda": [
+            "kar",
+            "ma"
+        ],
+        "priority": "high"
+    },
+    "yoga": {
+        "category": "philosophy",
+        "usesMurda": [
+            "yo",
+            "ga"
+        ],
+        "priority": "high"
+    },
+    "moksha": {
+        "category": "philosophy",
+        "usesMurda": [
+            "mok",
+            "sha"
+        ],
+        "priority": "high"
+    },
+    "nirvana": {
+        "category": "philosophy",
+        "usesMurda": [
+            "nir",
+            "wa",
+            "na"
+        ],
+        "priority": "high"
+    },
+    "samsara": {
+        "category": "philosophy",
+        "usesMurda": [
+            "sam",
+            "sa",
+            "ra"
+        ],
+        "priority": "high"
+    },
+    "ahimsa": {
+        "category": "philosophy",
+        "usesMurda": [
+            "a",
+            "him",
+            "sa"
+        ],
+        "priority": "medium"
+    },
+    "tapas": {
+        "category": "philosophy",
+        "usesMurda": [
+            "ta",
+            "pas"
+        ],
+        "priority": "medium"
+    },
+    "bhakti": {
+        "category": "philosophy",
+        "usesMurda": [
+            "bhak",
+            "ti"
+        ],
+        "priority": "high"
+    },
+    "jnana": {
+        "category": "philosophy",
+        "usesMurda": [
+            "jna",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "pranayama": {
+        "category": "philosophy",
+        "usesMurda": [
+            "pra",
+            "na",
+            "ya",
+            "ma"
+        ],
+        "priority": "medium"
+    },
+    "asana": {
+        "category": "philosophy",
+        "usesMurda": [
+            "a",
+            "sa",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "mantra": {
+        "category": "philosophy",
+        "usesMurda": [
+            "man",
+            "tra"
+        ],
+        "priority": "high"
+    },
+    "yantra": {
+        "category": "philosophy",
+        "usesMurda": [
+            "yan",
+            "tra"
+        ],
+        "priority": "medium"
+    },
+    "tantra": {
+        "category": "philosophy",
+        "usesMurda": [
+            "tan",
+            "tra"
+        ],
+        "priority": "medium"
+    },
+    "mudra": {
+        "category": "philosophy",
+        "usesMurda": [
+            "mud",
+            "ra"
+        ],
+        "priority": "medium"
+    },
+    "chakra": {
+        "category": "philosophy",
+        "usesMurda": [
+            "chak",
+            "ra"
+        ],
+        "priority": "medium"
+    },
+    "kundalini": {
+        "category": "philosophy",
+        "usesMurda": [
+            "kun",
+            "da",
+            "li",
+            "ni"
+        ],
+        "priority": "medium"
+    },
+    "samadhi": {
+        "category": "philosophy",
+        "usesMurda": [
+            "sa",
+            "ma",
+            "dhi"
+        ],
+        "priority": "medium"
+    },
+    "atman": {
+        "category": "philosophy",
+        "usesMurda": [
+            "at",
+            "man"
+        ],
+        "priority": "high"
+    },
+    "brahman": {
+        "category": "philosophy",
+        "usesMurda": [
+            "brah",
+            "man"
+        ],
+        "priority": "high"
+    },
+    "prakriti": {
+        "category": "philosophy",
+        "usesMurda": [
+            "pra",
+            "kri",
+            "ti"
+        ],
+        "priority": "medium"
+    },
+    "purusha": {
+        "category": "philosophy",
+        "usesMurda": [
+            "pu",
+            "ru",
+            "sha"
+        ],
+        "priority": "medium"
+    },
+    "maya": {
+        "category": "philosophy",
+        "usesMurda": [
+            "ma",
+            "ya"
+        ],
+        "priority": "high"
+    },
+    "lila": {
+        "category": "philosophy",
+        "usesMurda": [
+            "li",
+            "la"
+        ],
+        "priority": "medium"
+    },
+    "sadhana": {
+        "category": "philosophy",
+        "usesMurda": [
+            "sa",
+            "dha",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "guru": {
+        "category": "philosophy",
+        "usesMurda": [
+            "gu",
+            "ru"
+        ],
+        "priority": "high"
+    },
+    "darshan": {
+        "category": "philosophy",
+        "usesMurda": [
+            "dar",
+            "shan"
+        ],
+        "priority": "medium"
+    },
+    "weda": {
+        "category": "scripture",
+        "usesMurda": [
+            "we",
+            "da"
+        ],
+        "priority": "high",
+        "variants": [
+            "veda"
+        ]
+    },
+    "veda": {
+        "category": "scripture",
+        "usesMurda": [
+            "we",
+            "da"
+        ],
+        "preferredForm": "weda",
+        "priority": "high"
+    },
+    "rigweda": {
+        "category": "scripture",
+        "usesMurda": [
+            "rig",
+            "we",
+            "da"
+        ],
+        "priority": "medium",
+        "variants": [
+            "rigveda"
+        ]
+    },
+    "rigveda": {
+        "category": "scripture",
+        "usesMurda": [
+            "rig",
+            "ve",
+            "da"
+        ],
+        "preferredForm": "rigweda",
+        "priority": "medium"
+    },
+    "samaweda": {
+        "category": "scripture",
+        "usesMurda": [
+            "sa",
+            "ma",
+            "we",
+            "da"
+        ],
+        "priority": "medium",
+        "variants": [
+            "samaveda"
+        ]
+    },
+    "samaveda": {
+        "category": "scripture",
+        "usesMurda": [
+            "sa",
+            "ma",
+            "ve",
+            "da"
+        ],
+        "preferredForm": "samaweda",
+        "priority": "medium"
+    },
+    "yajurweda": {
+        "category": "scripture",
+        "usesMurda": [
+            "ya",
+            "jur",
+            "we",
+            "da"
+        ],
+        "priority": "medium",
+        "variants": [
+            "yajurveda"
+        ]
+    },
+    "yajurveda": {
+        "category": "scripture",
+        "usesMurda": [
+            "ya",
+            "jur",
+            "ve",
+            "da"
+        ],
+        "preferredForm": "yajurweda",
+        "priority": "medium"
+    },
+    "atharwaweda": {
+        "category": "scripture",
+        "usesMurda": [
+            "a",
+            "thar",
+            "wa",
+            "we",
+            "da"
+        ],
+        "priority": "medium",
+        "variants": [
+            "atharvaveda"
+        ]
+    },
+    "atharvaveda": {
+        "category": "scripture",
+        "usesMurda": [
+            "a",
+            "thar",
+            "va",
+            "ve",
+            "da"
+        ],
+        "preferredForm": "atharwaweda",
+        "priority": "medium"
+    },
+    "upanishad": {
+        "category": "scripture",
+        "usesMurda": [
+            "u",
+            "pa",
+            "ni",
+            "shad"
+        ],
+        "priority": "medium"
+    },
+    "purana": {
+        "category": "scripture",
+        "usesMurda": [
+            "pu",
+            "ra",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "shastra": {
+        "category": "scripture",
+        "usesMurda": [
+            "shas",
+            "tra"
+        ],
+        "priority": "medium"
+    },
+    "sutra": {
+        "category": "scripture",
+        "usesMurda": [
+            "su",
+            "tra"
+        ],
+        "priority": "medium"
+    },
+    "ramayana": {
+        "category": "epic",
+        "usesMurda": [
+            "ra",
+            "ma",
+            "ya",
+            "na"
+        ],
+        "priority": "high"
+    },
+    "mahabharata": {
+        "category": "epic",
+        "usesMurda": [
+            "ma",
+            "ha",
+            "bha",
+            "ra",
+            "ta"
+        ],
+        "priority": "high"
+    },
+    "bhagavadgita": {
+        "category": "scripture",
+        "usesMurda": [
+            "bha",
+            "ga",
+            "wad",
+            "gi",
+            "ta"
+        ],
+        "priority": "high"
+    },
+    "bhagavatgita": {
+        "category": "scripture",
+        "usesMurda": [
+            "bha",
+            "ga",
+            "vat",
+            "gi",
+            "ta"
+        ],
+        "priority": "high"
+    },
+    "om": {
+        "category": "mantra",
+        "usesMurda": [
+            "om"
+        ],
+        "priority": "high",
+        "sacred": true
+    },
+    "aum": {
+        "category": "mantra",
+        "usesMurda": [
+            "aum"
+        ],
+        "priority": "high",
+        "sacred": true
+    },
+    "soham": {
+        "category": "mantra",
+        "usesMurda": [
+            "so",
+            "ham"
+        ],
+        "priority": "medium"
+    },
+    "hamsa": {
+        "category": "mantra",
+        "usesMurda": [
+            "ham",
+            "sa"
+        ],
+        "priority": "medium"
+    },
+    "gayatri": {
+        "category": "mantra",
+        "usesMurda": [
+            "ga",
+            "ya",
+            "tri"
+        ],
+        "priority": "high"
+    },
+    "mahamrityunjaya": {
+        "category": "mantra",
+        "usesMurda": [
+            "ma",
+            "ha",
+            "mri",
+            "tyun",
+            "ja",
+            "ya"
+        ],
+        "priority": "medium"
+    },
+    "yudhishthira": {
+        "category": "character",
+        "usesMurda": [
+            "yu",
+            "dhish",
+            "thi",
+            "ra"
+        ],
+        "priority": "medium"
+    },
+    "bhima": {
+        "category": "character",
+        "usesMurda": [
+            "bhi",
+            "ma"
+        ],
+        "priority": "medium"
+    },
+    "arjuna": {
+        "category": "character",
+        "usesMurda": [
+            "ar",
+            "ju",
+            "na"
+        ],
+        "priority": "high"
+    },
+    "nakula": {
+        "category": "character",
+        "usesMurda": [
+            "na",
+            "ku",
+            "la"
+        ],
+        "priority": "medium"
+    },
+    "sahadeva": {
+        "category": "character",
+        "usesMurda": [
+            "sa",
+            "ha",
+            "de",
+            "wa"
+        ],
+        "priority": "medium"
+    },
+    "sahadewa": {
+        "category": "character",
+        "usesMurda": [
+            "sa",
+            "ha",
+            "de",
+            "va"
+        ],
+        "priority": "medium"
+    },
+    "draupadi": {
+        "category": "character",
+        "usesMurda": [
+            "drau",
+            "pa",
+            "di"
+        ],
+        "priority": "medium"
+    },
+    "kunti": {
+        "category": "character",
+        "usesMurda": [
+            "kun",
+            "ti"
+        ],
+        "priority": "medium"
+    },
+    "duryodhana": {
+        "category": "character",
+        "usesMurda": [
+            "dur",
+            "yo",
+            "dha",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "karna": {
+        "category": "character",
+        "usesMurda": [
+            "kar",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "bhishma": {
+        "category": "character",
+        "usesMurda": [
+            "bhish",
+            "ma"
+        ],
+        "priority": "medium"
+    },
+    "sita": {
+        "category": "character",
+        "usesMurda": [
+            "si",
+            "ta"
+        ],
+        "priority": "high"
+    },
+    "lakshmana": {
+        "category": "character",
+        "usesMurda": [
+            "lak",
+            "shma",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "bharata": {
+        "category": "character",
+        "usesMurda": [
+            "bha",
+            "ra",
+            "ta"
+        ],
+        "priority": "medium"
+    },
+    "ravana": {
+        "category": "character",
+        "usesMurda": [
+            "ra",
+            "wa",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "rawana": {
+        "category": "character",
+        "usesMurda": [
+            "ra",
+            "va",
+            "na"
+        ],
+        "priority": "medium"
+    },
+    "sugriva": {
+        "category": "character",
+        "usesMurda": [
+            "su",
+            "gri",
+            "wa"
+        ],
+        "priority": "medium"
+    },
+    "sugriwa": {
+        "category": "character",
+        "usesMurda": [
+            "su",
+            "gri",
+            "va"
+        ],
+        "priority": "medium"
+    },
+    "wibhisana": {
+        "category": "character",
+        "usesMurda": [
+            "wi",
+            "bhi",
+            "sha",
+            "na"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vibhishana"
+        ]
+    },
+    "vibhishana": {
+        "category": "character",
+        "usesMurda": [
+            "vi",
+            "bhi",
+            "sha",
+            "na"
+        ],
+        "preferredForm": "wibhisana",
+        "priority": "medium"
+    },
+    "walmiki": {
+        "category": "sage",
+        "usesMurda": [
+            "wal",
+            "mi",
+            "ki"
+        ],
+        "priority": "medium",
+        "variants": [
+            "valmiki"
+        ]
+    },
+    "valmiki": {
+        "category": "sage",
+        "usesMurda": [
+            "val",
+            "mi",
+            "ki"
+        ],
+        "preferredForm": "walmiki",
+        "priority": "medium"
+    },
+    "wasistha": {
+        "category": "sage",
+        "usesMurda": [
+            "wa",
+            "sish",
+            "tha"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vasishtha"
+        ]
+    },
+    "vasishtha": {
+        "category": "sage",
+        "usesMurda": [
+            "va",
+            "sish",
+            "tha"
+        ],
+        "preferredForm": "wasistha",
+        "priority": "medium"
+    },
+    "wishwamitra": {
+        "category": "sage",
+        "usesMurda": [
+            "wish",
+            "wa",
+            "mi",
+            "tra"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vishwamitra"
+        ]
+    },
+    "vishwamitra": {
+        "category": "sage",
+        "usesMurda": [
+            "vish",
+            "va",
+            "mi",
+            "tra"
+        ],
+        "preferredForm": "wishwamitra",
+        "priority": "medium"
+    },
+    "vyasa": {
+        "category": "sage",
+        "usesMurda": [
+            "vya",
+            "sa"
+        ],
+        "priority": "medium"
+    },
+    "narada": {
+        "category": "sage",
+        "usesMurda": [
+            "na",
+            "ra",
+            "da"
+        ],
+        "priority": "medium"
+    },
+    "agastya": {
+        "category": "sage",
+        "usesMurda": [
+            "a",
+            "gas",
+            "tya"
+        ],
+        "priority": "medium"
+    },
+    "waikuntha": {
+        "category": "place",
+        "usesMurda": [
+            "wai",
+            "kun",
+            "tha"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vaikuntha"
+        ]
+    },
+    "vaikuntha": {
+        "category": "place",
+        "usesMurda": [
+            "vai",
+            "kun",
+            "tha"
+        ],
+        "preferredForm": "waikuntha",
+        "priority": "medium"
+    },
+    "wrindawan": {
+        "category": "place",
+        "usesMurda": [
+            "wrin",
+            "da",
+            "wan"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vrindavan"
+        ]
+    },
+    "vrindavan": {
+        "category": "place",
+        "usesMurda": [
+            "vrin",
+            "da",
+            "van"
+        ],
+        "preferredForm": "wrindawan",
+        "priority": "medium"
+    },
+    "kailash": {
+        "category": "place",
+        "usesMurda": [
+            "kai",
+            "lash"
+        ],
+        "priority": "medium"
+    },
+    "dwaraka": {
+        "category": "place",
+        "usesMurda": [
+            "dwa",
+            "ra",
+            "ka"
+        ],
+        "priority": "medium"
+    },
+    "dvaraka": {
+        "category": "place",
+        "usesMurda": [
+            "dva",
+            "ra",
+            "ka"
+        ],
+        "priority": "medium"
+    },
+    "mathura": {
+        "category": "place",
+        "usesMurda": [
+            "ma",
+            "thu",
+            "ra"
+        ],
+        "priority": "medium"
+    },
+    "ayodhya": {
+        "category": "place",
+        "usesMurda": [
+            "a",
+            "yodh",
+            "ya"
+        ],
+        "priority": "medium"
+    },
+    "kurukshetra": {
+        "category": "place",
+        "usesMurda": [
+            "ku",
+            "ruk",
+            "she",
+            "tra"
+        ],
+        "priority": "medium"
+    },
+    "lanka": {
+        "category": "place",
+        "usesMurda": [
+            "lan",
+            "ka"
+        ],
+        "priority": "medium"
+    },
+    "dewa": {
+        "category": "general",
+        "usesMurda": [
+            "de",
+            "wa"
+        ],
+        "priority": "high",
+        "variants": [
+            "deva"
+        ]
+    },
+    "deva": {
+        "category": "general",
+        "usesMurda": [
+            "de",
+            "va"
+        ],
+        "preferredForm": "dewa",
+        "priority": "high"
+    },
+    "sewa": {
+        "category": "general",
+        "usesMurda": [
+            "se",
+            "wa"
+        ],
+        "priority": "medium",
+        "variants": [
+            "seva"
+        ]
+    },
+    "seva": {
+        "category": "general",
+        "usesMurda": [
+            "se",
+            "va"
+        ],
+        "preferredForm": "sewa",
+        "priority": "medium"
+    },
+    "wisnawa": {
+        "category": "sect",
+        "usesMurda": [
+            "wis",
+            "na",
+            "wa"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vaishnava"
+        ]
+    },
+    "vaishnava": {
+        "category": "sect",
+        "usesMurda": [
+            "vais",
+            "na",
+            "va"
+        ],
+        "preferredForm": "wisnawa",
+        "priority": "medium"
+    },
+    "wairagya": {
+        "category": "philosophy",
+        "usesMurda": [
+            "wai",
+            "rag",
+            "ya"
+        ],
+        "priority": "medium",
+        "variants": [
+            "vairagya"
+        ]
+    },
+    "vairagya": {
+        "category": "philosophy",
+        "usesMurda": [
+            "vai",
+            "rag",
+            "ya"
+        ],
+        "preferredForm": "wairagya",
+        "priority": "medium"
+    },
+    "ayurweda": {
+        "category": "science",
+        "usesMurda": [
+            "a",
+            "yur",
+            "we",
+            "da"
+        ],
+        "priority": "medium",
+        "variants": [
+            "ayurveda"
+        ]
+    },
+    "ayurveda": {
+        "category": "science",
+        "usesMurda": [
+            "a",
+            "yur",
+            "ve",
+            "da"
+        ],
+        "preferredForm": "ayurweda",
+        "priority": "medium"
+    },
+    "wata": {
+        "category": "ayurveda",
+        "usesMurda": [
+            "wa",
+            "ta"
+        ],
+        "priority": "low",
+        "variants": [
+            "vata"
+        ]
+    },
+    "vata": {
+        "category": "ayurveda",
+        "usesMurda": [
+            "va",
+            "ta"
+        ],
+        "preferredForm": "wata",
+        "priority": "low"
+    },
+    "pitta": {
+        "category": "ayurveda",
+        "usesMurda": [
+            "pit",
+            "ta"
+        ],
+        "priority": "low"
+    },
+    "kapha": {
+        "category": "ayurveda",
+        "usesMurda": [
+            "ka",
+            "pha"
+        ],
+        "priority": "low"
+    },
+    "ojas": {
+        "category": "ayurveda",
+        "usesMurda": [
+            "o",
+            "jas"
+        ],
+        "priority": "low"
+    },
+    "prana": {
+        "category": "ayurveda",
+        "usesMurda": [
+            "pra",
+            "na"
+        ],
+        "priority": "medium"
+    }
+}
